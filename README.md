@@ -1,18 +1,5 @@
 # iXiHackathon_GrafikGott
 ABSTRACT
 
-These days the major problem which is common between the students is
-the lack of proper career guidance. The students have difficulty in
-choosing their streams. Hence,  here our team comes with an efficient
-solution through which the student will be able to choose the desired
-stream as per their potential.Our team is working on the problem
-statement  stating to develop a portal for education institutions
-where the student can upload their details and will get relevant
-opportunities. Our approach to this problem is to create a web portal
-where a student can upload his details in the csv format and all the
-details will be scanned and stored in the database ,on the basis of
-the details one can get the relevant opportunities as per the place a
-user has opted for. We will also make a search engine that will help
-in fetching millions of records at a time. Our interface will be very
-simple which will reduce the users effort .
-Technology used: SQL, PHP, HTML , CSS , JavaScript
+These days the major problem which is common in our society is the level of education in the rural areas. So, to tackle this problem our team has come up with the solution to make the education system better and efficient in the rural india. Our approach is to create an interface from where the administration could track the attendance of the students as well as the employees in the school, we are also developing the portable server along with the search engine on an embedded device, the functionality of our server is to provide the best of the best resources to the students in terms of study materials and career guidance. The students dont require the internet connectivity to fetch the data from the server it will be done over the wi-fi and this makes our system more efficient and unique in the market. Our system has very vast application as it can be developed as per the requirement of the user. Our search engine is efficitent to fetch millions of record at a time. Our interface will be very simple which will reduce the users effort .
+Technology used: SQL, PHP,HTML,CSS.
